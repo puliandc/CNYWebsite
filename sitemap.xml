@@ -3,7 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://cnytainments.app/</loc>
+    <loc>https://CNYtainment.com/</loc>
+    <lastmod>2024-02-23T11:29:40+11:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://CNYtainment.com/posts/</loc>
+    <lastmod>2024-02-23T11:29:40+11:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://CNYtainment.com/posts/terms-of-service/</loc>
+    <lastmod>2024-02-23T11:29:40+11:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://CNYtainment.com/posts/privacy-agreement/</loc>
+    <lastmod>2024-02-23T11:04:32+11:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
